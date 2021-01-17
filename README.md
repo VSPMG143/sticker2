@@ -2,14 +2,14 @@
 <h1 align="center"><b>STICKER TO IMAGE BOT</b></h1>
 <h4 align="center">A Simple Bot Which Converts Stickers To Image In Telethon</h4>
 
-
+Demo link : @stickerdownloader1bot
 
 # Deploy
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VSPMG143/Sticker2/blob/main)
 
 # Normal Way
 ```python3
-git clone https://github.com/StarkGang/StickerToIMGBot
+git clone https://github.com/VSPMG143/sticker2
 cd StickerToIMGBot
 pip install -r requirements.txt
 # Make A file Named local_config and put all your values There and Then Run the bot.
